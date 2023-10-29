@@ -1,7 +1,7 @@
 # Applied Machine Learning 
 
 
-<img src="https://miro.medium.com/v2/resize:fit:1200/1*X1Ny0lK4EiauptCpUQhaVg.jpeg" alt="Machine Learning" width="300">
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*X1Ny0lK4EiauptCpUQhaVg.jpeg" alt="Machine Learning" width="400">
 
 Welcome my repository about applied machine learning. I'm sure you'll enjoy the findings 
 
